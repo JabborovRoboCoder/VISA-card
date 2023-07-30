@@ -1,0 +1,71 @@
+.box{
+    background-color: brown;
+    width: 70%;
+    height: 600px;
+    margin-top: 100px;
+    margin-left: 15%;
+    padding: 10px;
+
+}
+.visa{
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+    color: aliceblue;
+    background: #000;
+    width: 40%;
+    margin-left: 30%;
+    border-radius: 15px;
+    height: 250px;
+}
+#v1{
+    margin-left: 5%;
+    color: white;
+}
+
+#sht{
+    margin-left: 40px;
+    width: 35px;
+    height: 35px;
+    border-radius: 10px;
+    border: #fafafa solid 0.5px;
+}
+
+#wi{
+    width: 35px;
+    height: 30px;
+    margin-left: 10px;
+
+}
+
+#num{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 40px;
+    font-size: 40px;
+}
+
+#goo{
+    margin: 0px;
+    margin-top: 5px;
+    padding-left: 25%;
+    padding-top: 10px;
+    font-size: 8px;
+    display: inline-block;
+    
+}
+#sa{
+    width: 20px;
+    height: 20px;
+    display: inline;
+    font-size: 23px;
+}
+#na{
+    margin-top: 5px;
+    margin-left: 40px;
+    font-size: 23px;
+}
+#vis{
+    width: 100px;
+    height: 90px;
+}
