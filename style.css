@@ -69,3 +69,43 @@
     width: 100px;
     height: 90px;
 }
+ #ra{
+    width: 300px;
+    height: 30px;
+    margin: 80px;
+    font-size:medium;
+    border-radius: 6px;
+    background:#94e28d;
+    
+}
+#sana{
+    margin-left: 10px;
+    width: 100px;
+    height: 30px;
+    border-radius: 6px;
+    background: #94e28d;
+    font-size: medium;
+}
+#nam{
+    margin-left: 100px;
+    font-size: medium;
+    width: 200px;
+    height: 30px;
+    border-radius: 6px;
+    background: #94e28d;   
+}
+#fam{
+    margin-left: 80px;
+    font-size: medium;
+    width: 200px;
+    height: 30px;
+    border-radius: 6px;
+    background: #94e28d;    
+}
+#bu {
+    background: #1302fc;
+    border-radius: 5px;
+    padding: 15px;
+    color: white;
+    margin-left:200px;
+}
